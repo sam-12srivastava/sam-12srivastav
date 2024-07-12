@@ -1,3 +1,4 @@
+![logo](https://github.com/sam-12srivastava/sam-12srivastav/blob/main/banners.png)
 <h1 align="center">Hi 👋, I'm Samriddhi Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
