@@ -1,4 +1,4 @@
-![logo](https://github.com/sam-12srivastava/sam-12srivastav/blob/main/banners.png)
+![logo](https://github.com/sam-12srivastava/sam-12srivastav/blob/main/Visionary%20leader%20driving%20innovation%20in%20tech.%20Pioneered%20transformative%20solutions%2C%20fostering%20exponential%20growth%20and%20industry%20disruption..png)
 <h1 align="center">Hi 👋, I'm Samriddhi Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
